@@ -1,0 +1,10 @@
+canonical_identifier: bkk:krp/KR3ep022/jc/v1/markers/5
+seq: 5
+markers:
+  front: []
+  body:
+  - {type: xml-element, offset: 9, content: '', id: KR3ep022_jc_001-d5.d6p2, name: p, role: open, attrs: {'xml:id': KR3ep022_jc_001-d5.d6p2}}
+  - {type: 'tls:seg', offset: 9, content: '', id: KR3ep022_jc_001-d5.d6.p2s1}
+  - {type: xml-element, offset: 17, content: '', id: KR3ep022_jc_001-d5.d6p2_end, name: p, role: close, attrs: {'xml:id': KR3ep022_jc_001-d5.d6p2}}
+  back: []
+hash: sha256:7b3846e7257a7e9b963950ad0747f702135f339fd9943c9caef7c84d3ad2c675

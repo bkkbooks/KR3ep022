@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR3ep022/jc/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 評選繼志堂醫案上卷常熟曹存心仁伯著
+  hash: sha256:5ba97fd20cb9f3c25642d57f92f0a5e64d1dac21184e9344b95a57529b08ca02
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ep022_jc_001-d5.d6.h1s1}
+  - {type: 'tls:div-end', offset: 17, content: '', id: KR3ep022_jc_NaN-d5d6}
+  - {type: 'tls:div-start', offset: 17, content: '', id: KR3ep022_jc_NaN-d5d7, level: 2, head_text: 內傷雜病門}
+metadata:
+  title: 增補評注柳選醫案
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep022.xml
+hash: sha256:011544a935f08c920e214025d4486500a14ba9d2396cf0b0ff6cb1b91012ed27
